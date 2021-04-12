@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @raghidairsheid
 - 👀 I’m interested in programming languages.
 - 🌱 I’m currently learning a web development program.
-- 💞️ I’m looking to collaborate on your colleagues and to get my own job.
-- 📫 How to reach me,you can reach me on my email [raghidair](www.raghidair@gmail.com)
+- 💞️ I’m looking to collaborate on your colleagues.
+- 📫 How to reach me,you can reach me on my email [raghidair](https://mail.google.com/mail/raghidair@gmail.com)
 
 <!---
 raghidairsheid/raghidairsheid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
