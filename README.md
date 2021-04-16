@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raghidairsheid
+- 👋 Hi, I’m raghidairsheid
 - 👀 I’m interested in programming languages.
 - 🌱 I’m currently learning a web development program.
 - 💞️ I’m looking to collaborate on your colleagues.
